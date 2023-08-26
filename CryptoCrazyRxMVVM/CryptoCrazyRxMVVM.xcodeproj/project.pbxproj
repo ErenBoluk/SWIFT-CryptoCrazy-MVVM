@@ -73,9 +73,6 @@
 		C4ADD0622A9A14A40085777C /* Model */ = {
 			isa = PBXGroup;
 			children = (
-				C4ADD04E2A9A13CC0085777C /* AppDelegate.swift */,
-				C4ADD0502A9A13CC0085777C /* SceneDelegate.swift */,
-				C4ADD0522A9A13CC0085777C /* ViewController.swift */,
 				C4ADD0662A9A160A0085777C /* CryptoModel.swift */,
 			);
 			path = Model;
@@ -84,6 +81,9 @@
 		C4ADD0632A9A14B90085777C /* View */ = {
 			isa = PBXGroup;
 			children = (
+				C4ADD04E2A9A13CC0085777C /* AppDelegate.swift */,
+				C4ADD0502A9A13CC0085777C /* SceneDelegate.swift */,
+				C4ADD0522A9A13CC0085777C /* ViewController.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
