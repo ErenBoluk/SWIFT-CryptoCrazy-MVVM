@@ -18,6 +18,7 @@
 		C4ADD06C2A9A2BF00085777C /* RxCocoa in Frameworks */ = {isa = PBXBuildFile; productRef = C4ADD06B2A9A2BF00085777C /* RxCocoa */; };
 		C4ADD06E2A9A2BF00085777C /* RxSwift in Frameworks */ = {isa = PBXBuildFile; productRef = C4ADD06D2A9A2BF00085777C /* RxSwift */; };
 		C4ADD0702A9A2C110085777C /* CryptoViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = C4ADD06F2A9A2C110085777C /* CryptoViewModel.swift */; };
+		C4ADD0722A9A41B50085777C /* CryptoTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = C4ADD0712A9A41B50085777C /* CryptoTableViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,6 +33,7 @@
 		C4ADD0662A9A160A0085777C /* CryptoModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CryptoModel.swift; sourceTree = "<group>"; };
 		C4ADD0682A9A18A10085777C /* WebService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WebService.swift; sourceTree = "<group>"; };
 		C4ADD06F2A9A2C110085777C /* CryptoViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CryptoViewModel.swift; sourceTree = "<group>"; };
+		C4ADD0712A9A41B50085777C /* CryptoTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CryptoTableViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -92,6 +94,7 @@
 				C4ADD04E2A9A13CC0085777C /* AppDelegate.swift */,
 				C4ADD0502A9A13CC0085777C /* SceneDelegate.swift */,
 				C4ADD0522A9A13CC0085777C /* ViewController.swift */,
+				C4ADD0712A9A41B50085777C /* CryptoTableViewCell.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -196,6 +199,7 @@
 				C4ADD0672A9A160A0085777C /* CryptoModel.swift in Sources */,
 				C4ADD0512A9A13CC0085777C /* SceneDelegate.swift in Sources */,
 				C4ADD0702A9A2C110085777C /* CryptoViewModel.swift in Sources */,
+				C4ADD0722A9A41B50085777C /* CryptoTableViewCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
